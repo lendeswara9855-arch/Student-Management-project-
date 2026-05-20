@@ -146,6 +146,6 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **Kasturi Raskar**
+Developed by **Swara Lende**
 
 ⭐ If you like this project, don't forget to give it a star on GitHub!
